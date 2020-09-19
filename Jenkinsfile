@@ -3,7 +3,7 @@ DOCKER_IMAGE = 'helloworld'
 DOCKER_REGISTRY_CREDENTIALS_ID = '51afcef3-669a-410e-999e-734f212cce19'
 DOCKER_CONTAINER_NAME = 'HelloWorld'
 GIT_URL = 'https://github.com/swapnapat/helloworld.git'
-GIT_CREDENTIALS_ID = 'c41646e5-25ae-461b-9b30-c2df3e895ca9'
+GIT_CREDENTIALS_ID = 'c893c7d2-8753-407e-b5a9-b88a110f2955'
 node {
     def app
     try {
