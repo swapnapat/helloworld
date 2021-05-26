@@ -1,6 +1,6 @@
 # pull official base image
 FROM node:13.12.0-alpine
-LABEL maintainer "V Reddy <vreddy@tekleaders>"
+LABEL maintainer "swapna <swapna@gmail.com,>"
 
 # set working directory
 WORKDIR /app
